@@ -1,0 +1,1 @@
+# gcs-resource-with-default
